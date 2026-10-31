@@ -8,7 +8,7 @@ The fourth element: a light green background, a font size of 24px, and bold */
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 }
 
-#element-three {
+.element-three {
     font-size: 24px;
 }
 
